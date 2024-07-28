@@ -16,7 +16,7 @@ Este repositório contém um plugin para Minecraft: Home. Que é configuráveis 
 lembrando que o plugin Home funciona utilizando um banco de dados `MYSQL` para as informações necessárias de uso.
 
 ## Funcionalidades
-O plugin Home é utilizado pelos jogadores para marcar um local específico como um ponto fixo para teleporte em qualquer lugar do mapa, ao utilizar o comando "/sethome" o jogador define uma localização para qual ele irá se teleportar ao utilizar o comando "/home" o plugin tem um tempo de recarga (cooldown) ajustado de 60 segundos que pode ser alterado para outra quantidade desejável através do Config.yml gerado ao inicializar o server, o plugin também conta com uma característica visual de teleporte que pode ser alterada entre ligada ou desligada, nesta versão do código a partícula utilizada é  "PORTAL" do banco de dados do Bukkit.
+O plugin Home é utilizado pelos jogadores para marcar um local específico como um ponto fixo para teleporte em qualquer lugar do mapa, ao utilizar o comando "/sethome" o jogador define uma localização para qual ele irá se teleportar ao utilizar o comando "/home" o plugin tem um tempo de recarga (cooldown) ajustado de 60 segundos que pode ser alterado para outra quantidade desejável através do Config.yml gerado ao inicializar o server, o plugin também conta com uma característica visual de teleporte que pode ser alterada entre ligada ou desligada, nesta versão do código a partícula utilizada é  `PORTAL` do banco de dados do Bukkit.
 
 ### Plugin Home
 
