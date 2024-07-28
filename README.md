@@ -29,7 +29,7 @@ O plugin Home é utilizado pelos jogadores para marcar um local específico como
 
 As opções de tempo de recarga do plugin pode ser configurado pelo arquivo `config.yml` gerado após a inicialização do servidor. 
 `Ao configurar o código, é necessário a configuração de um banco de dados, como informado anteriormente, neste código foi utilizado um banco de dados MYSQL.
-Abaixo estão um exemplo das opções de configuração para o plugin.`
+Abaixo está um exemplo das opções de configuração para o plugin.`
 
 ### DatabaseManager
 ```Java
