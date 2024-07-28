@@ -1,0 +1,4 @@
+name: Casa
+version: '1.0-SNAPSHOT'
+main: plug.casa.home
+api-version: '1.21'
